@@ -40,3 +40,6 @@
 [submodule "client-view-save-animate"]
 	path = client-view-save-animate
 	url = https://github.com/Developer-Autodesk/client-view-save-animate-view.and.data.api.git
+[submodule "workflow-ios"]
+	path = workflow-ios
+	url = https://github.com/Developer-Autodesk/workflow-ios-view.and.data.api.git

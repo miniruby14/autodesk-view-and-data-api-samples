@@ -16,3 +16,6 @@
 [submodule "workflow-view-save-animate"]
 	path = workflow-view-save-animate
 	url = https://github.com/Developer-Autodesk/workflow-view-save-animate-view.and.data.api.git
+[submodule "client-fullstack"]
+	path = client-fullstack
+	url = https://github.com/Developer-Autodesk/client-fullstack-view.and.data.api.git

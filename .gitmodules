@@ -7,3 +7,6 @@
 [submodule "library-javascript"]
 	path = library-javascript
 	url = https://github.com/Developer-Autodesk/library-javascript-view.and.data.api.git
+[submodule "integration-sap"]
+	path = integration-sap
+	url = https://github.com/Developer-Autodesk/integration-sap-view.and.data.api.git

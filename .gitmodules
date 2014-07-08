@@ -37,3 +37,6 @@
 [submodule "workflow-jsp"]
 	path = workflow-jsp
 	url = https://github.com/Developer-Autodesk/workflow-jsp-view.and.data.api.git
+[submodule "client-view-save-animate"]
+	path = client-view-save-animate
+	url = https://github.com/Developer-Autodesk/client-view-save-animate-view.and.data.api.git

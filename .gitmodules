@@ -43,3 +43,6 @@
 [submodule "workflow-ios"]
 	path = workflow-ios
 	url = https://github.com/Developer-Autodesk/workflow-ios-view.and.data.api.git
+[submodule "client-embeded"]
+	path = client-embeded
+	url = https://github.com/Developer-Autodesk/client-embedded-view.and.data.api.git

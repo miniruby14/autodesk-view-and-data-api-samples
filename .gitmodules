@@ -1,3 +1,6 @@
 [submodule "workflow-node.js"]
 	path = workflow-node.js
 	url = https://github.com/Developer-Autodesk/workflow-node.js-view.and.data.api.git
+[submodule "library-dotnet"]
+	path = library-dotnet
+	url = https://github.com/Developer-Autodesk/library-dotnet-view.and.data.api.git

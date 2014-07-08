@@ -25,3 +25,6 @@
 [submodule "client-timeliner"]
 	path = client-timeliner
 	url = https://github.com/Developer-Autodesk/client-timeliner-view.and.data.api.git
+[submodule "workflow-aspnet-mvc"]
+	path = workflow-aspnet-mvc
+	url = https://github.com/Developer-Autodesk/workflow-aspnet-mvc-view.and.data.api.git

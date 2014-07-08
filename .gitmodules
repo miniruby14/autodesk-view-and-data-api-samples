@@ -34,3 +34,6 @@
 [submodule "workflow-donet-winform"]
 	path = workflow-donet-winform
 	url = https://github.com/Developer-Autodesk/workflow-donet-winform-view.and.data.api.git
+[submodule "workflow-jsp"]
+	path = workflow-jsp
+	url = https://github.com/Developer-Autodesk/workflow-jsp-view.and.data.api.git

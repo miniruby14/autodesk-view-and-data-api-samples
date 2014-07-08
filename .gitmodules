@@ -4,3 +4,6 @@
 [submodule "library-dotnet"]
 	path = library-dotnet
 	url = https://github.com/Developer-Autodesk/library-dotnet-view.and.data.api.git
+[submodule "library-javascript"]
+	path = library-javascript
+	url = https://github.com/Developer-Autodesk/library-javascript-view.and.data.api.git

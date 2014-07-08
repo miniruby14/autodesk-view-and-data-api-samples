@@ -1,0 +1,3 @@
+[submodule "workflow-node.js"]
+	path = workflow-node.js
+	url = https://github.com/Developer-Autodesk/workflow-node.js-view.and.data.api.git

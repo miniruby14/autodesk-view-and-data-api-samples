@@ -52,3 +52,6 @@
 [submodule "workflow-wpf"]
 	path = workflow-wpf
 	url = https://github.com/Developer-Autodesk/workflow-wpf-view.and.data.api.git
+[submodule "workflow-aspnet-webform"]
+	path = workflow-aspnet-webform
+	url = https://github.com/Developer-Autodesk/workflow-aspnet-webform-view.and.data.api.git

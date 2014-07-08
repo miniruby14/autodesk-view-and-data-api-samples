@@ -46,3 +46,6 @@
 [submodule "client-embeded"]
 	path = client-embeded
 	url = https://github.com/Developer-Autodesk/client-embedded-view.and.data.api.git
+[submodule "workflow-android"]
+	path = workflow-android
+	url = https://github.com/Developer-Autodesk/workflow-android-view.and.data.api.git

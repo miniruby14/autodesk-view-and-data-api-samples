@@ -31,3 +31,6 @@
 [submodule "workflow-python"]
 	path = workflow-python
 	url = https://github.com/Developer-Autodesk/workflow-python-view.and.data.api.git
+[submodule "workflow-donet-winform"]
+	path = workflow-donet-winform
+	url = https://github.com/Developer-Autodesk/workflow-donet-winform-view.and.data.api.git

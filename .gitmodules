@@ -28,3 +28,6 @@
 [submodule "workflow-aspnet-mvc"]
 	path = workflow-aspnet-mvc
 	url = https://github.com/Developer-Autodesk/workflow-aspnet-mvc-view.and.data.api.git
+[submodule "workflow-python"]
+	path = workflow-python
+	url = https://github.com/Developer-Autodesk/workflow-python-view.and.data.api.git

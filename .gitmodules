@@ -49,3 +49,6 @@
 [submodule "workflow-android"]
 	path = workflow-android
 	url = https://github.com/Developer-Autodesk/workflow-android-view.and.data.api.git
+[submodule "workflow-wpf"]
+	path = workflow-wpf
+	url = https://github.com/Developer-Autodesk/workflow-wpf-view.and.data.api.git

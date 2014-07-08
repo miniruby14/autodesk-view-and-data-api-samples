@@ -10,3 +10,6 @@
 [submodule "integration-sap"]
 	path = integration-sap
 	url = https://github.com/Developer-Autodesk/integration-sap-view.and.data.api.git
+[submodule "workflow-php"]
+	path = workflow-php
+	url = https://github.com/Developer-Autodesk/workflow-php-view.and.data.api.git

@@ -19,3 +19,6 @@
 [submodule "client-fullstack"]
 	path = client-fullstack
 	url = https://github.com/Developer-Autodesk/client-fullstack-view.and.data.api.git
+[submodule "integration-sharepoint"]
+	path = integration-sharepoint
+	url = https://github.com/Developer-Autodesk/integration-sharepoint-view.and.data.api.git

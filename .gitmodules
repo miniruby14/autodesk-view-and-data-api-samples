@@ -55,3 +55,6 @@
 [submodule "workflow-aspnet-webform"]
 	path = workflow-aspnet-webform
 	url = https://github.com/Developer-Autodesk/workflow-aspnet-webform-view.and.data.api.git
+[submodule "client-steampunked-morgan"]
+	path = client-steampunked-morgan
+	url = https://github.com/Developer-Autodesk/client-steampunked-morgan.git

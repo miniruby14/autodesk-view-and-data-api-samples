@@ -58,3 +58,6 @@
 [submodule "client-steampunked-morgan"]
 	path = client-steampunked-morgan
 	url = https://github.com/Developer-Autodesk/client-steampunked-morgan.git
+[submodule "workflow-curl"]
+	path = workflow-curl
+	url = https://github.com/Developer-Autodesk/workflow-curl-view.and.data.api.git

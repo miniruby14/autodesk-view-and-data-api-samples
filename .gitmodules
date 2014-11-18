@@ -70,3 +70,6 @@
 [submodule "workflow-macos-swift"]
 	path = workflow-macos-swift
 	url = https://github.com/Developer-Autodesk/workflow-macos-swift-view.and.data.api.git
+[submodule "workflow-dotnet-winform"]
+	path = workflow-dotnet-winform
+	url = https://github.com/Developer-Autodesk/workflow-dotnet-winform-view.and.data.api.git

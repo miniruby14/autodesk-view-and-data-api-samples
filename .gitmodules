@@ -64,3 +64,6 @@
 [submodule "client-mountsimulation"]
 	path = client-mountsimulation
 	url = https://github.com/Developer-Autodesk/client-mountsimulation-view.and.data.api.git
+[submodule "integration-bing-maps"]
+	path = integration-bing-maps
+	url = https://github.com/Developer-Autodesk/integration-bing-maps-view.and.data.api

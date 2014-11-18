@@ -67,3 +67,6 @@
 [submodule "integration-bing-maps"]
 	path = integration-bing-maps
 	url = https://github.com/Developer-Autodesk/integration-bing-maps-view.and.data.api
+[submodule "workflow-macos-swift"]
+	path = workflow-macos-swift
+	url = https://github.com/Developer-Autodesk/workflow-macos-swift-view.and.data.api.git

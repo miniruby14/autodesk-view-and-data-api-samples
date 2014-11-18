@@ -61,3 +61,6 @@
 [submodule "workflow-curl"]
 	path = workflow-curl
 	url = https://github.com/Developer-Autodesk/workflow-curl-view.and.data.api.git
+[submodule "client-mountsimulation"]
+	path = client-mountsimulation
+	url = https://github.com/Developer-Autodesk/client-mountsimulation-view.and.data.api.git

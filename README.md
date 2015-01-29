@@ -1,6 +1,10 @@
 
 #Autodesk View and Data API Samples
 
+##Update
+
+This repo is retired, please refer to http://developer-autodesk.github.io/
+
 ##Description
 
 This repository is the master index of repositories for all Autodesk View and Data API samples.
